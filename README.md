@@ -9,7 +9,7 @@
 ### Interests:
 🧠 ML Infrastructure (spec. RL)  
 🧩 ML Frameworks  
-🌐 Architectures & Networks
+🌐 Architectures & Networks  
 ⚙️ LLM Inference + Training
 
 </div>
